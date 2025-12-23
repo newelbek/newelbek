@@ -47,6 +47,9 @@ I'm an AI Engineer specializing in building scalable Generative AI systems, soph
 - Optimizing inference latency for Vision and NLP pipelines.
 
 ---
+## 📫 Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/newelbek)
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=newelbek&label=Profile%20Views&color=0e75b6&style=flat" alt="newelbek" />
 </p>
